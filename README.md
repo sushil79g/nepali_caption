@@ -1,7 +1,6 @@
 nepali_caption
 ==============================
 
-A short description of the project.
 
 Project Organization
 ------------
